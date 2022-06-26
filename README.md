@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickwanninger&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Nick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickwanninger&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
